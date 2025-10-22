@@ -5,3 +5,5 @@ pandas
 matplotlib
 nltk
 pillow
+gradio
+huggingface-hub
