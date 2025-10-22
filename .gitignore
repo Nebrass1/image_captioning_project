@@ -1,0 +1,11 @@
+# Ignorer l'environnement virtuel
+venv/
+# Ignorer les poids intermédiaires
+weights-epoch-*.h5
+# Ignorer le dossier des images (trop gros pour GitHub)
+data/Images/
+# Ignorer les caches Python
+__pycache__/
+*.pyc
+# Fichiers TensorFlow/Keras
+*.pb
